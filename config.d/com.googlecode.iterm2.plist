@@ -4,6 +4,8 @@
 <dict>
 	<key>Default Bookmark Guid</key>
 	<string>A018CD17-D402-4B18-8D80-97A2A994771F</string>
+	<key>EnableAPIServer</key>
+	<false/>
 	<key>HapticFeedbackForEsc</key>
 	<false/>
 	<key>HideTab</key>
@@ -1506,10 +1508,14 @@
 	<false/>
 	<key>SavePasteHistory</key>
 	<false/>
+	<key>SeparateStatusBarsPerPane</key>
+	<false/>
 	<key>SoundForEsc</key>
 	<false/>
 	<key>TabStyleWithAutomaticOption</key>
 	<integer>5</integer>
+	<key>UseBorder</key>
+	<false/>
 	<key>VisualIndicatorForEsc</key>
 	<false/>
 </dict>
